@@ -1,5 +1,5 @@
 # NETFLIX SUBSCRIBER & VIEWING ANALYSIS
-
+![Dashboard Image](Dashboard%20Image.png)
 ## PROJECT OVERVIEW
 
 The Netflix Subscriber & Viewing Analytics is an interactive Power BI project designed to analyze subscriber behavior, viewing patterns, content preferences, and subscription details.
