@@ -1,5 +1,5 @@
 # NETFLIX SUBSCRIBER & VIEWING ANALYSIS
-Dash board image.png
+<img width="969" height="513" alt="Dash board image" src="https://github.com/user-attachments/assets/0a60114d-7f00-43b4-a86b-6755dca276b4" />
 
 ## PROJECT OVERVIEW
 
