@@ -54,6 +54,5 @@ This project provides a clear overview of subscribers, spending, watch hours, mo
 
 ## PROJECT BY
 
-**G. ANUSHA**
-
+G.ANUSHA
 B.E. Computer Science and Engineering
