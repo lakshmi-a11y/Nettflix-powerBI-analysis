@@ -1,5 +1,5 @@
 # NETFLIX SUBSCRIBER & VIEWING ANALYSIS
-![Dash board image](Dash board%20image.png)
+Dash board image.png
 
 ## PROJECT OVERVIEW
 
